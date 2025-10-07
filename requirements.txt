@@ -1,0 +1,4 @@
+Python==3.13.2
+Pandas==2.2.3
+NumPy==2.2.3   
+Scikit-learn==1.6.1
